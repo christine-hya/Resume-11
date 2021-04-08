@@ -1,0 +1,76 @@
+
+body {
+    background-color: white;
+    color: black;
+    font-family: Roboto, sans-serif, Ariel;  
+    scroll-behavior: smooth;   
+    width: 100%;
+    margin: 0;    
+}
+
+.about {
+    font-size: larger;
+}
+    
+
+footer {
+    text-align: center;
+    background-color: #4a2545;
+    color: white;    
+}
+
+.animation:hover {
+    filter: opacity(50%); 
+}
+
+.card-colour {
+    background-color: white;
+    color: black;
+}
+
+.button-colour {
+    background-color: #4a2545;
+    border: 0;
+}
+
+.button-colour:hover {
+    background-color: #90AA86;
+}
+
+#about-section {
+    clear: both;
+    display: block;
+}
+
+#background {
+    background-image: url("images/christine-website.jpg"); 
+    background-color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 600px; 
+    
+}
+
+.heading {
+    font-weight: bold;
+}
+
+.line {
+    border: 2px dotted;
+    border-color: gray;
+}
+
+.navbar-center {
+        position: absolute;
+        left: 50%;
+        transform: translatex(-50%);
+    }
+ .bg-colour {
+     background-color: #dccca3;
+ } 
+
+
+ 
+
